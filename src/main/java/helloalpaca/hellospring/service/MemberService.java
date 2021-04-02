@@ -2,6 +2,7 @@ package helloalpaca.hellospring.service;
 
 import helloalpaca.hellospring.domain.Member;
 import helloalpaca.hellospring.repository.MemberRepository;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;

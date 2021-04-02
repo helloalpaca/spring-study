@@ -1,6 +1,7 @@
 package helloalpaca.hellospring.repository;
 
 import helloalpaca.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
